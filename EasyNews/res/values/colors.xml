@@ -1,0 +1,7 @@
+
+    <resources>
+        <color name="grey">#ffAAAAAA</color>
+        <color name="black">#ff000000</color>
+        <color name="darkgrey">#ff999999</color>
+        <color name="silver">#ffdddddd</color>
+    </resources>

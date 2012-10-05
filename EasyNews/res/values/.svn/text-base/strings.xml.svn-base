@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RSSCompleteActivity!</string>
+    <string name="app_name">EasyNews</string>
+    <string-array name="feedList"></string-array>
+    <string name="manage">Manage sources...</string>
+    <string name="sources">Back to source list</string>
+</resources>
